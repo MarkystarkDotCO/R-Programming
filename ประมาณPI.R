@@ -1,5 +1,4 @@
 #การประมาณค่า PI 
-#นาย เมธานนท์ แก้วกระจ่าง 62050214 
 # Area of circle = Pi*(r)^2
 #Area of squire = (2r)^2 ซึ่งวงกลมนี้แนบอยู่ใน 4 เหลี่ยม
 # กำหนดให้ r = 1 จะได้ Pi = 4*(Area of circle/Area of squire)
